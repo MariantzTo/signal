@@ -53,14 +53,14 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
+      "colorText": "#333333",
+      "colorBg": "#00e620",
+      "colorButton": "#333333",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Usiamo i cookies per garantirti un'esperienza migliore. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Ok, proseguo"
+      "text": "Usiamo i cookies per garantirti un'esperienza migliore. Leggi la nostra <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Ok, ho capito, proseguo."
     },
     "screenshot": "screenshot.png"
   },
@@ -6254,11 +6254,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Superiore\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Inferiore\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Colore di sfondo\" name=\"bgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary-outline\" href=\"https://www.cookie-accept.com/it/\" data-app-placeholder=\"Type Text\" target=\"_blank\">COSA SONO I COOKIE?</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rIF6kYyxfR",
+          "_anchor": "content8-1s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-1s"
+          "_params": {}
         },
         {
           "alias": false,
@@ -6305,11 +6305,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Superiore\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n      <input type=\"range\" inline title=\"Inferiore\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Dimensione dei Media\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Colore di sfondo\" name=\"bgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/mbr-436x291.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Informativa sulla privacy e il trattamento dei dati personali Clienti\n<br></b>\n<br>Ai sensi dell’ Art. 13, e visti gli artt. 23 e 24 del Decreto Legislativo 30/6/2003 n° 196 e dell'art. 13 del Regolamento UE\n<br>2016/679 (RGPD), vi informiamo che:\n<br>Il Titolare del trattamento\n<br>Il Titolare del trattamento dei dati personali, relativi a persone identificate o identificabili trattati a seguito della\n<br>consultazione del nostro sito, è SIGNAL GRAFICA E ALLESTIMENTI di G. MATTIA DOSIO con sede in Via Gaspare Saccarelli, 16, 10144 Torino TO<br>Il Responsabile del trattamento\n<br>II Responsabile del trattamento dei dati personali è il legale rappresentante protempore\n<br>Luogo e finalità del trattamento dei dati\n<br>I dati da voi forniti sono raccolti, registrati, riordinati, memorizzati ed utilizzati per attività funzionali alla esecuzione del\n<br>servizio da voi richiesto. Più in particolare, i vostri dati saranno trattati da SIGNAL GRAFICA E ALLESTIMENTI di G. MATTIA DOSIO con sede in Via Gaspare Saccarelli, 16, 10144 Torino TO<br>Titolare del trattamento, per:\n<br> gestire il normale rapporto di fornitura di servizi, su vostra richiesta;\n<br> effettuare le operazioni necessarie alla gestione dei nostri pagamenti e dei nostri incassi;\n<br> gestire i nostri adempimenti di natura amministrativa, contabile, civilistica, fiscale;\n<br> inviare informazioni e comunicazioni concernenti i servizi pre e post vendita.\n<br>Base giuridica del trattamento dei dati\n<br>Il trattamento è effettuato senza il consenso dell’interessato in quanto parte integrante e imprescindibile del contratto\n<br>di vendita.\n<br>Modalità di trattamento dei dati\n<br>I dati personali sono trattati sia con strumenti informatici che cartacei, per il tempo necessario a conseguire lo scopo\n<br>per il quale sono stati raccolti. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti\n<br>o non corretti ed accessi non autorizzati.\n<br>Tipi di dati trattati\n<br>I dati personali vostri, ovvero della vostra società, da voi forniti in occasione di vostre visite, o di vostre richieste.\n<br>Facoltatività del conferimento dei dati\n<br>Il conferimento dei vostri dati é obbligatorio per ottemperare agli adempimenti ed agli obblighi fiscali, amministrativi e\n<br>di legge relativi all’esecuzione dell’incarico conferitoci. Pertanto, un eventuale rifiuto al conferimento impedirà\n<br>l’esecuzione dell’incarico stesso.\n<br>Durata di conservazione\n<br>I vostri dati saranno conservati e trattati per il tempo necessario ad adempiere alle finalità indicate. Successivamente, lo\n<br>saranno soltanto per il tempo stabilito dalle vigenti disposizioni in materia di conservazione di dati.\n<br>Profilazione e Diffusione dei dati\n<br>I Suoi dati personali non sono soggetti a diffusione né ad alcun processo decisionale interamente automatizzato, ivi\n<br>compresa la profilazione.\n<br>Trasferimento dati\n<br>Il Titolare del trattamento non trasferisce i dati personali in paesi terzi; tuttavia si riserva la possibilità di utilizzare servizi\n<br>in cloud e in tal caso i fornitori dei servizi saranno selezionati tra coloro che forniscono garanzie adeguate, così come\n<br>previsto dall’art.46 GDPR 679/16.\n<br>Diritti degli interessati\n<br>Resta salva la facoltà dell'interessato di esercitare in ogni momento i diritti di cui all’art.15 (Diritto di accesso\n<br>dell'interessato), i diritti di cui agli Artt. 16-21 RGPD (Diritto di rettifica, diritto all'oblio, diritto di limitazione di\ntrattamento, diritto alla portabilità dei dati, diritto di opposizione), oltre al diritto di reclamo all'Autorità Garante.\n<br>Modalità di esercizio dei diritti.\n<br>L'interessato potrà in qualsiasi momento esercitare i diritti inviando una richiesta scritta al titolare del trattamento di\n<br>tali dati personali secondo le seguenti modalità:\n<br>- via e-mail: info@graficaeallestimenti.it</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rIF5qNOkVk",
+          "_anchor": "content6-1r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-1r"
+          "_params": {}
         }
       ]
     }
